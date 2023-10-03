@@ -1,0 +1,2 @@
+class EjemploArchivoDos:
+    pass
